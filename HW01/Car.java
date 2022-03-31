@@ -18,7 +18,7 @@ The target constructor creates a Car object completely defined by the user.
 The 3-argument constructor creates a Car object using the 3 arguments provided by the
 user, anc complimenting the missing 2 with predetermined values.
 
-An accessor was created for every behavior. The other 3 methods are helper methods.
+An accessor was created for every instance variable. The other 3 methods are helper methods.
 Therefore, they were made private.
 */
 
