@@ -8,7 +8,7 @@ Date Due: 02-21-2022
 
 The Car class is made up of 6 private variables, 3 constructors, and 8 methods.
 
-The behaviors of each Car object are: year, make, model, color, and conditionCategory.
+The states of a Car object are: year, make, model, color, and conditionCategory.
 
 The no-args contructor creates a Car object with predetermined values
 for the 5 different behaviors.
