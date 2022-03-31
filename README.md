@@ -1,4 +1,4 @@
-# CS-1331
+# CS-1331: Intro to Object Oriented Programming
 All Programming Exercises (PE) and Homework (HW) done through GT's CS-1331 on Spring '22
 
 PE's are relatively simple weekly tasks given the first few weeks of the course.
