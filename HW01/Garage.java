@@ -8,10 +8,10 @@ Date Due: 02-21-2022
 
 The Garage class is made up of 2 private variables, 2 constructors, and 3 methods.
 
-The behaviors of each Garage object are: theOwner and carCatalogue.
+The states of a Garage object are: theOwner and carCatalogue.
 
 The no-args contructor creates a Garage object with predetermined values
-for the 2 different behaviors.
+for the 2 different states.
 
 The target constructor creates a Garage object completely defined by the user.
 
