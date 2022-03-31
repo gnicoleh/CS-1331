@@ -8,12 +8,12 @@ Date Due: 02-21-2022
 
 The GarageOwner class is made up of 3 private variables, 1 constructor, and 4 methods.
 
-The behaviors of each GarageOwner object are: name, age, and carsOwned.
+The states of a GarageOwner object are: name, age, and carsOwned.
 
 The constructor creates a GarageOwner object using the 2 arguments provided by the
 user, initiating carsOwned to 0 when the object is created.
 
-An accessor was created for every behavior. A mutator was created for carsOwwned.
+An accessor was created for every state. A mutator was created for carsOwwned.
 */
 
 public class GarageOwner {
